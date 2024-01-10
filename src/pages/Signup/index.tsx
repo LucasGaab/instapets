@@ -1,3 +1,5 @@
+import Login from "/Users/Lucas Gabriel/Instapets/instapets/src/components/Login/index";
+
 export default function SignupPage() {
-  return <h1>Sign Up</h1>;
+  return <Login loginType="signup" />;
 }
