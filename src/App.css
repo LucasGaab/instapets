@@ -75,3 +75,11 @@ input[type='submit']{
 .login-container a {
   text-decoration: underline;
 }
+
+.NovaConta {
+  position: absolute;
+  top: 95%;
+  left: 55%;
+  color: black;
+  background-color:rgb(247, 247, 236);
+}
